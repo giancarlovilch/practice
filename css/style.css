@@ -1,0 +1,10 @@
+body {
+    background-color: aqua;
+}
+p {
+    background-color: purple;
+    padding: 2rem;
+    border-radius: 1rem;
+    text-transform: uppercase;
+    color: pink;
+}
